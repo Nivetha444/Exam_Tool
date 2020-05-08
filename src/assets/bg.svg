@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3369.361" height="1025.066" viewBox="0 0 3369.361 1025.066">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8dcb8a"/>
+      <stop offset="0.799" stop-color="#00758b"/>
+      <stop offset="1" stop-color="#00758b"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_5" data-name="Group 5" transform="translate(0.658)">
+    <g id="Background">
+      <rect id="Rectangle" width="3164" height="1024" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Parallax" transform="translate(0 21)">
+      <g id="Wing" transform="translate(39 373)" opacity="0.16">
+        <g id="Group-3_1_" transform="translate(1)" opacity="0.409">
+          <path id="Fill-1_2_" d="M3133.829,398.336S2966.04,118.1,2639.04,77.1c-257.055-32.23-503.15,165.555-709,217-235.857,58.944-529.846-39.962-750,0-200.982,36.482-340.906,300.233-517,297C103.552,580.923,0,137.294,0,206.273V118.1s338.268,432.881,663.04,432c153.371-.471,314.436-229.545,517-277,215.471-50.478,469.628-45.648,691-101,218.555-54.648,404.681-169.789,563-172C2891.859-6.261,3133.829,398.336,3133.829,398.336Z" transform="translate(0.96 0.902)" fill="#fff"/>
+        </g>
+        <g id="Group-3_2_" transform="translate(0.245 133)" opacity="0.595">
+          <path id="Fill-1_3_" d="M3163.824,308.47c45.543,83.01-98.7-316.838-701.457-224.99-210,32-267.83,292.189-437,268-205.334-29.36-452.857-216-664-176-303.378,57.468-557.548,326.91-797,322C4.866,485.947,0,289.216,0,366.915V96.48s335.587,371.173,660.367,370c195.272-.64,424.068-289.432,701-351,208.789-46.419,416,168,691,76s276.829-224.441,610-184,501.457,223.292,501.457,223.292Z" transform="translate(0.388 0.52)" fill="#fff"/>
+        </g>
+      </g>
+      <path id="Line" d="M0,337.442S330.082,193.7,672.5,180.942s539.364,178.69,1046,188,519-338,861-366,748.5,210.5,748.5,210.5" transform="translate(0 13)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1" opacity="0.499"/>
+      <path id="Line-2" data-name="Line" d="M0,486.324S315.582,656.641,658,643.883s531.364-166.869,1038-157.558S2158,29.883,2500,1.883s828,360.442,828,360.442" transform="translate(40)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1" opacity="0.499"/>
+    </g>
+  </g>
+</svg>
